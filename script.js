@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function () {
       }
   });
 });
-alert("HELLO!!!😍😍😍");
+alert("HELLO!!!😘😘😘");
 
 document.getElementById("flickeringLogo").addEventListener("mouseenter", function(){
   this.style.animation = "none"; //flicker animation pauses when hovered.
